@@ -1,0 +1,57 @@
+[
+  {
+    "label": "p12pais",
+    "url": "https://www.pagina12.com.ar/rss/secciones/el-pais/notas",
+    "type": "xml"
+  },
+  {
+    "label": "p12eco",
+    "url": "https://www.pagina12.com.ar/rss/secciones/economia/notas",
+    "type": "xml"
+  },
+  {
+    "label": "lmgral",
+    "url": "https://lmdiario.com.ar/default/rss/general",
+    "type": "xml"
+  },
+  {
+    "label": "lmnoti",
+    "url": "https://lmdiario.com.ar/default/rss/noticias",
+    "type": "xml"
+  },
+  {
+    "label": "clarin_noticias",
+    "url": "https://www.clarin.com/rss/lo-ultimo",
+    "type": "xml"
+  },
+  {
+    "label": "clarin_politica",
+    "url": "https://www.clarin.com/rss/politica",
+    "type": "xml"
+  },
+  {
+    "label": "clarin_economia",
+    "url": "https://www.clarin.com/rss/economia",
+    "type": "xml"
+  },
+  {
+    "label": "infobae_noticias",
+    "url": "https://www.infobae.com/feeds/rss",
+    "type": "xml"
+  },
+  {
+    "label": "perfil_politica",
+    "url": "https://www.perfil.com/rss/politica",
+    "type": "xml"
+  },
+  {
+    "label": "perfil_economia",
+    "url": "https://www.perfil.com/rss/economia",
+    "type": "xml"
+  },
+  {
+    "label": "ambito_economia",
+    "url": "https://www.ambito.com/rss/economia.xml",
+    "type": "xml"
+  }
+]
